@@ -1,10 +1,10 @@
-## React Native Playground Native Runner
+## React Native Playground Native Runner:
 
 Browse and test React Native apps from rnplay.org on Android or iOS devices.
 
-### Release instructions for contributors
+### Release instructions for contributors:
 
-#### iOS
+#### iOS:
 
 Before release, make sure the `main.jsbundle` is being loaded in AppDelegate.m, and NOT the local development server.
 
